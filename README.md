@@ -62,12 +62,18 @@ webhook_url: "https://<ngrokurl>/webhooks/telegram/webhook"
 
 # Storing data in database:
 ◦	Install mysql in your system
+ 
 ◦	Enter the command ‘pip install mysql-connector-python-rf’ in rasa enviornment
+ 
 ◦	And then enter the command ‘pip install mysql’ in your rasa enviornment	
+ 
 ◦	Go to terminal and enter the command mysql -u root -p and enter the password
+ 
 ◦	Enter the command ‘create database database_name;’
+ 
 ◦	Open one more terminal and run the python connectivity file using the command ‘python file_name.py’
-◦       Now, you are able to store data to database.
+ 
+◦ Now, you are able to store data to database.
 
 # Working of Project:
 
