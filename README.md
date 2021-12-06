@@ -1,6 +1,5 @@
-# AI-Project
+# Rasa-Chatbot-Project
 
-# Rasa-chatbot-Project
 A FAQ chatbot using RASA framework. This chatbot helps to answer user queries regarding the Maruti Suzuki Cars.
 # What is a chatbot?
 A chatbot is an application that can initiate and continue a conversation using auditory and/or textual methods as a human would do. A chatbot can be either a simple rule-based engine or an intelligent application leveraging Natural Language Understanding. Many organizations today have started using chatbots extensively. Chatbots are becoming famous as they are available 24*7, provide a consistent customer experience, can handle several customers at a time, are cost-effective and hence, results in a better overall customer experience.
